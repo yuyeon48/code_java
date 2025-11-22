@@ -45,14 +45,6 @@
 | 기술 | 아이콘/로고 | 설명 |
 | :---: | :---: | :--- |
 | **Java** | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> | 주력 언어로 사용 |
-| **JUnit** | <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5"/> | 필요 시 테스트 코드 작성 |
 | **IntelliJ IDEA** | <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> | 개발 환경 |
 
 ---
-
-## 🙋‍♀️ Contact
-
-궁금한 점이나 피드백은 언제든지 환영합니다!
-
-* **GitHub:** [@본인_아이디](https://github.com/[본인_아이디])
-* **Blog/Velog:** [블로그 주소]
